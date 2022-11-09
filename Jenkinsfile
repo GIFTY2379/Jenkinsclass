@@ -12,3 +12,5 @@ pipeline {
                     credentialsId: '97ba5c35-497e-45c0-884e-635bdb4afb60'
             }
         }
+    }
+}
